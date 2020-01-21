@@ -1,10 +1,5 @@
 # InteractivePokemonGame
-## Points
- * 100 points for the game code.
-   * **Due Thurs 10/25**
- * 10 points for writing a thorough code review.
-   * **Code reviews will be done in class Tues 10/23. Your game should be somewhat working**
- * 10 for using code reviewer suggestions and commenting about this in your pull request.
+
  
  
  ## Instructions
@@ -13,7 +8,6 @@
    
 ### Game Phase 1 - Game Setup
   * In the first phase of the game, each player will choose one Pokemon to battle with. There should be a menu offered to each player to choose one Pokemon to battle with.
-    * This will be similar to your menu for choosing Pokemon in Assignment 4.
     * The program should ask Player 1 to choose their Pokemon, then save it, and give an acknowledgement message.
     * Then it should ask Player 2 to choose their Pokemon, save it, and give an acknowledgement message.
   * After both Pokemon are chosen, the game should randomly choose which Player goes first.
@@ -39,12 +33,5 @@
 ### Game Phase 3 - Game Over
  * Once a player's Pokemon has fainted, the game should end and print out a congratulatory message to the winner.
 
-### Assignment 5 Grading
-----
 
-- [x] **20/20** Menu for both players to pick their Pokemon
-- [x] **20/20** Alternating turns
-- [x] **20/20** Implementation of "passing" to charge Special Attack
-- [x] **20/20** Tracking of HP, correct win/lose calculation.
-- [x] **20/20** Comments, coding style, documentation.
 # PokemonFight

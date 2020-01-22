@@ -1,10 +1,5 @@
 # InteractivePokemonGame
-## Points
- * 100 points for the game code.
-   * **Due Thurs 10/25**
- * 10 points for writing a thorough code review.
-   * **Code reviews will be done in class Tues 10/23. Your game should be somewhat working**
- * 10 for using code reviewer suggestions and commenting about this in your pull request.
+
  
  
  ## Instructions
@@ -39,12 +34,5 @@
 ### Game Phase 3 - Game Over
  * Once a player's Pokemon has fainted, the game should end and print out a congratulatory message to the winner.
 
-### Assignment 5 Grading
-----
 
-- [x] **20/20** Menu for both players to pick their Pokemon
-- [x] **20/20** Alternating turns
-- [x] **20/20** Implementation of "passing" to charge Special Attack
-- [x] **20/20** Tracking of HP, correct win/lose calculation.
-- [x] **20/20** Comments, coding style, documentation.
 # PokemonFight
